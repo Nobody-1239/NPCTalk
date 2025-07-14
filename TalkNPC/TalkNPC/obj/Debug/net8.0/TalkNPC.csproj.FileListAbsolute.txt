@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\bin\Debug\net8.0\TalkNPC.exe
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\bin\Debug\net8.0\TalkNPC.deps.json
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\bin\Debug\net8.0\TalkNPC.runtimeconfig.json
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\bin\Debug\net8.0\TalkNPC.dll
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\bin\Debug\net8.0\TalkNPC.pdb
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\TalkNPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\TalkNPC.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\TalkNPC.AssemblyInfo.cs
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\TalkNPC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\TalkNPC.dll
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\refint\TalkNPC.dll
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\TalkNPC.pdb
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\TalkNPC.genruntimeconfig.cache
+C:\Users\USER\Documents\projects\TalkNPC\TalkNPC\obj\Debug\net8.0\ref\TalkNPC.dll

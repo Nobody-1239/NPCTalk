@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33173563-7C68-494D-A2FB-83747AC8051D}|TalkNPC\\TalkNPC.csproj|c:\\users\\user\\documents\\projects\\talknpc\\talknpc\\connection\\connecttomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33173563-7C68-494D-A2FB-83747AC8051D}|TalkNPC\\TalkNPC.csproj|solutionrelative:talknpc\\connection\\connecttomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33173563-7C68-494D-A2FB-83747AC8051D}|TalkNPC\\TalkNPC.csproj|c:\\users\\user\\documents\\projects\\talknpc\\talknpc\\prompet\\npcpromp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33173563-7C68-494D-A2FB-83747AC8051D}|TalkNPC\\TalkNPC.csproj|solutionrelative:talknpc\\prompet\\npcpromp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33173563-7C68-494D-A2FB-83747AC8051D}|TalkNPC\\TalkNPC.csproj|c:\\users\\user\\documents\\projects\\talknpc\\talknpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33173563-7C68-494D-A2FB-83747AC8051D}|TalkNPC\\TalkNPC.csproj|solutionrelative:talknpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33173563-7C68-494D-A2FB-83747AC8051D}|TalkNPC\\TalkNPC.csproj|c:\\users\\user\\documents\\projects\\talknpc\\talknpc\\connection\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33173563-7C68-494D-A2FB-83747AC8051D}|TalkNPC\\TalkNPC.csproj|solutionrelative:talknpc\\connection\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectToModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\TalkNPC\\connection\\ConnectToModel.cs",
+              "RelativeDocumentMoniker": "TalkNPC\\connection\\ConnectToModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\TalkNPC\\connection\\ConnectToModel.cs*",
+              "RelativeToolTip": "TalkNPC\\connection\\ConnectToModel.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:47:36.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPCPromp.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\TalkNPC\\Prompet\\NPCPromp.cs",
+              "RelativeDocumentMoniker": "TalkNPC\\Prompet\\NPCPromp.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\TalkNPC\\Prompet\\NPCPromp.cs",
+              "RelativeToolTip": "TalkNPC\\Prompet\\NPCPromp.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:01:03.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\TalkNPC\\connection\\Story.cs",
+              "RelativeDocumentMoniker": "TalkNPC\\connection\\Story.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\TalkNPC\\connection\\Story.cs",
+              "RelativeToolTip": "TalkNPC\\connection\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:03:46.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\TalkNPC\\Program.cs",
+              "RelativeDocumentMoniker": "TalkNPC\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\projects\\TalkNPC\\TalkNPC\\Program.cs",
+              "RelativeToolTip": "TalkNPC\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:57:48.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
